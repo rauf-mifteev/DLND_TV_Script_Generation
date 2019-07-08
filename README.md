@@ -1,11 +1,15 @@
 # TV Script Generation Project for Udacity Deep Learning Nanodegree
 
-In this project, I work on code in **Jupiter Notebook** that generates fake Simpsons TV scripts. I use **Tensorflow** to build a Recurrent Neural Network (RNN) and train it on scripts of 27 seasons of Simpsons. 
+## Project overview
+In this project, I work on code in **Jupiter Notebook** that generates fake Simpsons TV scripts. I use **Tensorflow** to build a **Recurrent Neural Network (RNN)** and train it on scripts of 27 seasons of Simpsons. 
 
 ## Prerequisites
-The code is in a Jupyter Notebook. You can install Jupyter Notebook by installing [Anaconda](https://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda) or with pip
+The code is **Python** in a **Jupyter Notebook** and it uses:
 
-`pip3 install jupyter`
+* [Tensorflow](https://www.tensorflow.org/)
+* [NumPy](http://www.numpy.org/)
+
+You can install everything you need to run this project with [Anaconda](https://www.anaconda.com/).
 
 ## Installing
 Clone this repository
